@@ -1,0 +1,16 @@
+.info {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.count-info {
+    display: flex;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#checked-count {
+    margin-left: 10rem;
+}
